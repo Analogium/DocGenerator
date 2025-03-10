@@ -1,0 +1,696 @@
+{
+  "common": {
+    "save": "Enregistrer",
+    "saving": "Enregistrement...",
+    "export": "Exporter en PDF",
+    "add": "Ajouter",
+    "remove": "Supprimer",
+    "edit": "Modifier",
+    "download": "Télécharger",
+    "login": "Connexion",
+    "signup": "Inscription",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de bord",
+    "account": "Compte",
+    "settings": "Paramètres",
+    "pricing": "Tarifs",
+    "yes": "Oui",
+    "no": "Non",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "processing": "Traitement en cours...",
+    "duplicate": "Dupliquer"
+  },
+  "header": {
+    "title": "EasyDocs Générateur",
+    "pricing": "Tarifs",
+    "login": "Connexion",
+    "signup": "Inscription",
+    "dashboard": "Tableau de bord",
+    "account": "Paramètres du compte",
+    "signOut": "Déconnexion"
+  },
+  "footer": {
+    "copyright": "© {{year}} EasyDocs Générateur. Tous droits réservés.",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Créez des Documents Professionnels en Quelques Minutes",
+      "subtitle": "Générez de beaux factures, devis, CV et lettres de motivation avec notre plateforme facile à utiliser.",
+      "getStarted": "Commencer",
+      "viewPricing": "Voir les tarifs"
+    },
+    "documentTypes": {
+      "title": "Choisissez Votre Type de Document",
+      "subtitle": "Sélectionnez le type de document que vous souhaitez créer et suivez notre processus simple étape par étape.",
+      "invoice": {
+        "title": "Facture",
+        "description": "Créez des factures professionnelles pour vos clients"
+      },
+      "quote": {
+        "title": "Devis",
+        "description": "Générez des devis détaillés pour vos services"
+      },
+      "cv": {
+        "title": "CV / Curriculum Vitae",
+        "description": "Construisez un CV impressionnant pour décrocher l'emploi de vos rêves"
+      },
+      "coverLetter": {
+        "title": "Lettre de Motivation",
+        "description": "Rédigez des lettres de motivation convaincantes qui se démarquent"
+      },
+      "createNow": "Créer Maintenant"
+    },
+    "features": {
+      "title": "Pourquoi Choisir EasyDocs Générateur ?",
+      "subtitle": "Notre plateforme offre tout ce dont vous avez besoin pour créer rapidement et facilement des documents professionnels.",
+      "templates": {
+        "title": "Modèles Professionnels",
+        "description": "Choisissez parmi une variété de modèles conçus professionnellement pour tous vos besoins documentaires."
+      },
+      "preview": {
+        "title": "Aperçu en Temps Réel",
+        "description": "Visualisez vos modifications en temps réel pendant que vous créez et modifiez vos documents."
+      },
+      "export": {
+        "title": "Options d'Exportation",
+        "description": "Téléchargez vos documents au format PDF pour un partage et une impression faciles."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Commencer ?",
+      "subtitle": "Créez votre premier document gratuitement aujourd'hui. Aucune carte de crédit requise.",
+      "button": "Créer Votre Premier Document"
+    }
+  },
+  "pricing": {
+    "title": "Tarification Simple et Transparente",
+    "subtitle": "Choisissez le forfait qui vous convient le mieux. Pas de frais cachés ni d'engagements à long terme.",
+    "free": {
+      "name": "Gratuit",
+      "description": "Parfait pour essayer notre plateforme",
+      "price": "0€",
+      "duration": "pour toujours",
+      "features": [
+        "3 documents par mois",
+        "Modèles de base",
+        "Export PDF"
+      ],
+      "button": "Commencer"
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "Pour les professionnels et les entreprises",
+      "price": "9,99€",
+      "duration": "par mois",
+      "features": [
+        "Documents illimités",
+        "Tous les modèles premium",
+        "Export PDF"
+      ],
+      "button": "S'abonner Maintenant",
+      "popular": "Populaire"
+    },
+    "payg": {
+      "name": "Paiement à l'Usage",
+      "description": "Pour une utilisation occasionnelle",
+      "price": "2,99€",
+      "duration": "par document",
+      "features": [
+        "Payez uniquement ce dont vous avez besoin",
+        "Tous les modèles premium",
+        "Export PDF",
+        "Stockage de documents pendant 30 jours"
+      ],
+      "button": "Choisir ce Forfait"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "subtitle": "Trouvez des réponses aux questions courantes sur nos tarifs et fonctionnalités.",
+      "questions": [
+        {
+          "question": "Puis-je annuler mon abonnement à tout moment ?",
+          "answer": "Oui, vous pouvez annuler votre abonnement à tout moment. Vous continuerez à avoir accès aux fonctionnalités premium jusqu'à la fin de votre période de facturation."
+        },
+        {
+          "question": "Que se passe-t-il lorsque j'atteins ma limite de documents sur le forfait gratuit ?",
+          "answer": "Une fois que vous avez créé 3 documents dans un mois sur le forfait gratuit, vous devrez attendre le mois suivant ou passer à un forfait payant pour en créer davantage."
+        },
+        {
+          "question": "Puis-je changer de forfait ?",
+          "answer": "Oui, vous pouvez mettre à niveau ou rétrograder votre forfait à tout moment. Les changements prendront effet au début de votre prochain cycle de facturation."
+        },
+        {
+          "question": "Proposez-vous des remboursements ?",
+          "answer": "Nous offrons une garantie de remboursement de 14 jours pour tous les nouveaux abonnements. Si vous n'êtes pas satisfait de notre service, contactez notre équipe d'assistance pour un remboursement complet."
+        }
+      ]
+    }
+  },
+  "login": {
+    "title": "Connexion",
+    "subtitle": "Entrez votre email et mot de passe pour accéder à votre compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "button": "Se connecter",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "signUp": "S'inscrire",
+    "success": "Bienvenue !",
+    "successMessage": "Vous vous êtes connecté avec succès."
+  },
+  "signup": {
+    "title": "Créer un compte",
+    "subtitle": "Entrez vos informations pour créer votre compte",
+    "premiumSubtitle": "Inscrivez-vous pour le forfait Premium",
+    "paygSubtitle": "Inscrivez-vous pour le forfait Paiement à l'Usage",
+    "fullName": "Nom complet",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "button": "S'inscrire",
+    "creating": "Création du compte...",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "login": "Se connecter",
+    "success": "Compte créé",
+    "successMessage": "Veuillez vérifier votre email pour confirmer votre compte."
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "newDocument": "Nouveau Document",
+    "tabs": {
+      "documents": "Mes Documents",
+      "subscription": "Abonnement",
+      "settings": "Paramètres"
+    },
+    "documents": {
+      "empty": {
+        "title": "Aucun document pour l'instant",
+        "subtitle": "Créez votre premier document pour commencer",
+        "button": "Créer un Document"
+      },
+      "duplicate": {
+        "success": "Document Dupliqué",
+        "successMessage": "Votre document a été dupliqué avec succès.",
+        "error": "Erreur de Duplication",
+        "errorMessage": "Une erreur s'est produite lors de la duplication de votre document."
+      }
+    },
+    "subscription": {
+      "currentPlan": "Forfait actuel : {{plan}}",
+      "free": "Gratuit",
+      "premium": "Premium",
+      "usage": "Vous avez utilisé {{used}} sur {{total}} documents gratuits ce mois-ci.",
+      "unlimited": "illimité",
+      "renewalFree": "Votre forfait gratuit est réinitialisé le 1er de chaque mois.",
+      "renewalPremium": "Votre forfait premium se renouvelle le {{date}}.",
+      "upgrade": "Mettre à niveau"
+    },
+    "settings": {
+      "title": "Paramètres du compte",
+      "subtitle": "Gérez vos préférences de compte et vos informations personnelles.",
+      "fullName": "Nom complet",
+      "email": "Email",
+      "updateProfile": "Mettre à jour le profil",
+      "updating": "Mise à jour..."
+    },
+    "signInRequired": {
+      "title": "Veuillez vous connecter",
+      "message": "Vous devez être connecté pour voir votre tableau de bord.",
+      "button": "Aller à la connexion"
+    }
+  },
+  "account": {
+    "title": "Paramètres du compte",
+    "tabs": {
+      "profile": "Profil",
+      "security": "Sécurité",
+      "subscription": "Abonnement"
+    },
+    "profile": {
+      "title": "Informations personnelles",
+      "subtitle": "Mettez à jour vos informations personnelles et comment nous pouvons vous contacter.",
+      "fullName": "Nom complet",
+      "email": "Email",
+      "emailNote": "L'email ne peut pas être modifié. Contactez le support si vous devez mettre à jour votre email.",
+      "saveChanges": "Enregistrer les modifications",
+      "uploadAvatar": "Cliquez pour télécharger une photo de profil"
+    },
+    "security": {
+      "changePassword": {
+        "title": "Changer le mot de passe",
+        "subtitle": "Mettez à jour votre mot de passe pour sécuriser votre compte.",
+        "currentPassword": "Mot de passe actuel",
+        "newPassword": "Nouveau mot de passe",
+        "confirmPassword": "Confirmer le nouveau mot de passe",
+        "updateButton": "Mettre à jour le mot de passe",
+        "updating": "Mise à jour..."
+      },
+      "deleteAccount": {
+        "title": "Supprimer le compte",
+        "subtitle": "Supprimez définitivement votre compte et toutes vos données.",
+        "warning": "Cette action ne peut pas être annulée. Une fois que vous supprimez votre compte, toutes vos données seront définitivement supprimées.",
+        "button": "Supprimer le compte",
+        "processing": "Traitement...",
+        "confirmTitle": "Êtes-vous absolument sûr ?",
+        "confirmDescription": "Cette action ne peut pas être annulée. Cela supprimera définitivement votre compte et toutes vos données de nos serveurs.",
+        "confirmButton": "Oui, supprimer mon compte"
+      }
+    },
+    "subscription": {
+      "currentPlan": "Forfait actuel : {{plan}}",
+      "premiumDescription": "Vous avez un accès illimité à toutes les fonctionnalités.",
+      "freeDescription": "Vous êtes sur le forfait gratuit avec des fonctionnalités limitées.",
+      "documentsCreated": "Documents créés ce mois-ci",
+      "premiumBenefits": {
+        "title": "Avantages Premium",
+        "benefits": [
+          "Création de documents illimitée",
+          "Accès à tous les modèles premium",
+          "Export PDF"
+        ]
+      },
+      "manageSubscription": "Gérer l'abonnement",
+      "upgradeToPremium": "Passer à Premium"
+    },
+    "signInRequired": {
+      "title": "Veuillez vous connecter",
+      "message": "Vous devez être connecté pour accéder aux paramètres du compte.",
+      "button": "Aller à la connexion"
+    }
+  },
+  "invoice": {
+    "title": "Créer une Facture",
+    "tabs": {
+      "details": "Détails de la facture",
+      "items": "Articles & Prix",
+      "notes": "Notes"
+    },
+    "details": {
+      "invoiceNumber": "Numéro de facture",
+      "date": "Date",
+      "dueDate": "Date d'échéance",
+      "yourInfo": {
+        "title": "Vos informations",
+        "name": "Nom/Entreprise",
+        "email": "Email",
+        "phone": "Téléphone",
+        "address": "Adresse"
+      },
+      "clientInfo": {
+        "title": "Informations du client",
+        "name": "Nom/Entreprise",
+        "email": "Email",
+        "phone": "Téléphone",
+        "address": "Adresse"
+      }
+    },
+    "items": {
+      "description": "Description",
+      "quantity": "Quantité",
+      "price": "Prix",
+      "addItem": "Ajouter un article"
+    },
+    "notes": {
+      "title": "Notes",
+      "placeholder": "Informations supplémentaires, instructions de paiement ou conditions..."
+    },
+    "preview": {
+      "title": "Aperçu",
+      "invoiceNumber": "Facture #{{number}}",
+      "date": "Date : {{date}}",
+      "dueDate": "Date d'échéance : {{date}}",
+      "from": "De :",
+      "to": "À :",
+      "items": "Articles :",
+      "subtotal": "Sous-total :",
+      "total": "Total :",
+      "notes": "Notes :"
+    },
+    "messages": {
+      "saved": "Facture enregistrée",
+      "savedMessage": "Votre facture a été enregistrée dans votre compte.",
+      "exported": "Exportation terminée",
+      "exportedMessage": "Votre facture a été générée en PDF.",
+      "error": "Échec de l'exportation",
+      "errorMessage": "Une erreur s'est produite lors de la génération de votre PDF."
+    }
+  },
+  "quote": {
+    "title": "Créer un Devis",
+    "tabs": {
+      "details": "Détails du devis",
+      "items": "Articles & Prix",
+      "terms": "Conditions générales"
+    },
+    "details": {
+      "quoteNumber": "Numéro de devis",
+      "date": "Date",
+      "validUntil": "Valable jusqu'au",
+      "yourInfo": {
+        "title": "Vos informations",
+        "name": "Nom/Entreprise",
+        "email": "Email",
+        "phone": "Téléphone",
+        "address": "Adresse"
+      },
+      "clientInfo": {
+        "title": "Informations du client",
+        "name": "Nom/Entreprise",
+        "email": "Email",
+        "phone": "Téléphone",
+        "address": "Adresse"
+      }
+    },
+    "items": {
+      "description": "Description",
+      "quantity": "Quantité",
+      "price": "Prix",
+      "addItem": "Ajouter un article"
+    },
+    "terms": {
+      "notes": "Notes",
+      "notesPlaceholder": "Informations supplémentaires concernant ce devis...",
+      "termsTitle": "Conditions générales",
+      "termsPlaceholder": "Ce devis est valable pendant 30 jours à compter de la date d'émission. Les conditions de paiement sont un acompte de 50% avant le début des travaux, le solde étant dû à l'achèvement."
+    },
+    "preview": {
+      "title": "Aperçu",
+      "quoteNumber": "Devis #{{number}}",
+      "date": "Date : {{date}}",
+      "validUntil": "Valable jusqu'au : {{date}}",
+      "from": "De :",
+      "to": "À :",
+      "items": "Articles :",
+      "subtotal": "Sous-total :",
+      "total": "Total :",
+      "notes": "Notes :",
+      "terms": "Conditions générales :"
+    },
+    "messages": {
+      "saved": "Devis enregistré",
+      "savedMessage": "Votre devis a été enregistré dans votre compte.",
+      "exported": "Exportation terminée",
+      "exportedMessage": "Votre devis a été généré en PDF.",
+      "error": "Échec de l'exportation",
+      "errorMessage": "Une erreur s'est produite lors de la génération de votre PDF."
+    }
+  },
+  "cv": {
+    "title": "Créer un CV / Curriculum Vitae",
+    "tabs": {
+      "personal": "Personnel",
+      "experience": "Expérience",
+      "education": "Formation",
+      "skills": "Compétences"
+    },
+    "personal": {
+      "fullName": "Nom complet",
+      "title": "Titre professionnel",
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse",
+      "website": "Site web/LinkedIn",
+      "summary": "Résumé professionnel",
+      "summaryPlaceholder": "Ingénieur logiciel expérimenté avec une passion pour le développement de solutions innovantes..."
+    },
+    "experience": {
+      "title": "Expérience #{{number}}",
+      "company": "Entreprise",
+      "position": "Poste",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "currentJob": "Je travaille actuellement ici",
+      "description": "Description",
+      "descriptionPlaceholder": "Décrivez vos responsabilités et réalisations...",
+      "addExperience": "Ajouter une expérience"
+    },
+    "education": {
+      "title": "Formation #{{number}}",
+      "institution": "Établissement",
+      "degree": "Diplôme",
+      "field": "Domaine d'études",
+      "start": "Début",
+      "end": "Fin",
+      "description": "Description",
+      "descriptionPlaceholder": "Cours pertinents, réalisations, activités...",
+      "addEducation": "Ajouter une formation"
+    },
+    "skills": {
+      "title": "Compétences",
+      "skillPlaceholder": "ex., JavaScript, Gestion de projet, etc.",
+      "addSkill": "Ajouter une compétence",
+      "languages": "Langues",
+      "languagePlaceholder": "ex., Français (Natif), Anglais (Courant)",
+      "addLanguage": "Ajouter une langue"
+    },
+    "preview": {
+      "title": "Aperçu",
+      "summary": "Résumé",
+      "experience": "Expérience",
+      "education": "Formation",
+      "skills": "Compétences",
+      "languages": "Langues",
+      "present": "Présent"
+    },
+    "messages": {
+      "saved": "CV enregistré",
+      "savedMessage": "Votre CV a été enregistré dans votre compte.",
+      "exported": "Exportation terminée",
+      "exportedMessage": "Votre CV a été généré en PDF.",
+      "error": "Échec de l'exportation",
+      "errorMessage": "Une erreur s'est produite lors de la génération de votre PDF."
+    }
+  },
+  "coverLetter": {
+    "title": "Créer une Lettre de Motivation",
+    "tabs": {
+      "details": "Coordonnées",
+      "job": "Informations sur le poste",
+      "content": "Contenu de la lettre"
+    },
+    "details": {
+      "date": "Date",
+      "yourInfo": {
+        "title": "Vos informations",
+        "fullName": "Nom complet",
+        "email": "Email",
+        "phone": "Téléphone",
+        "address": "Adresse"
+      },
+      "recipientInfo": {
+        "title": "Informations du destinataire",
+        "name": "Nom du destinataire",
+        "title": "Titre du destinataire",
+        "company": "Entreprise",
+        "address": "Adresse de l'entreprise"
+      }
+    },
+    "job": {
+      "title": "Détails du poste",
+      "positionTitle": "Intitulé du poste",
+      "reference": "Référence/ID du poste (Optionnel)"
+    },
+    "content": {
+      "greeting": "Formule de politesse",
+      "introduction": "Introduction",
+      "introductionPlaceholder": "Je vous écris pour exprimer mon intérêt pour le poste de [Poste] chez [Entreprise]...",
+      "body": "Corps",
+      "bodyPlaceholder": "Tout au long de ma carrière, j'ai développé des compétences en... Ces expériences m'ont préparé pour...",
+      "conclusion": "Conclusion",
+      "conclusionPlaceholder": "Je suis enthousiaste à l'idée de rejoindre [Entreprise] et je serais ravi de discuter de la façon dont mon parcours et mes compétences correspondent à ce poste...",
+      "closing": "Formule de clôture"
+    },
+    "preview": {
+      "title": "Aperçu"
+    },
+    "messages": {
+      "saved": "Lettre de motivation enregistrée",
+      "savedMessage": "Votre lettre de motivation a été enregistrée dans votre compte.",
+      "exported": "Exportation terminée",
+      "exportedMessage": "Votre lettre de motivation a été générée en PDF.",
+      "error": "Échec de l'exportation",
+      "errorMessage": "Une erreur s'est produite lors de la génération de votre PDF."
+    }
+  },
+  "credits": {
+    "title": "Crédits de Documents",
+    "balance": {
+      "title": "Votre Solde de Crédits",
+      "description": "Utilisez des crédits pour créer des documents avec le forfait Paiement à l'Usage",
+      "available": "crédits disponibles",
+      "createDocument": "Créer un Document"
+    },
+    "purchase": {
+      "title": "Acheter des Crédits",
+      "description": "Achetez des crédits pour créer des documents quand vous en avez besoin",
+      "buyButton": "Acheter Maintenant",
+      "bestValue": "Meilleure Valeur",
+      "packages": {
+        "small": {
+          "title": "Pack Basique",
+          "description": "3 crédits de document"
+        },
+        "medium": {
+          "title": "Pack Standard",
+          "description": "7 crédits de document"
+        },
+        "large": {
+          "title": "Pack Pro",
+          "description": "15 crédits de document"
+        }
+      },
+      "success": {
+        "title": "Crédits Achetés",
+        "message": "Achat réussi de {{amount}} crédits"
+      },
+      "error": {
+        "title": "Échec de l'Achat",
+        "message": "Une erreur s'est produite lors du traitement de votre achat"
+      }
+    },
+    "history": {
+      "title": "Historique des Transactions",
+      "description": "Vos achats et utilisations récents de crédits",
+      "empty": "Aucune transaction pour l'instant",
+      "purchased": "Achat de {{amount}} crédits",
+      "used": "Utilisation de {{amount}} crédits"
+    }
+  },
+  "subscription": {
+    "guard": {
+      "signInRequired": {
+        "title": "Veuillez vous connecter",
+        "message": "Vous devez être connecté pour créer des documents.",
+        "button": "Aller à la connexion"
+      },
+      "limitReached": {
+        "title": "Limite de documents atteinte",
+        "message": "Vous avez atteint votre limite mensuelle de 3 documents gratuits.",
+        "upgrade": "Passez à Premium pour des documents illimités ou attendez le mois prochain.",
+        "upgradeButton": "Passer à Premium",
+        "dashboardButton": "Aller au tableau de bord"
+      },
+      "noCredits": {
+        "title": "Aucun Crédit Disponible",
+        "message": "Vous n'avez pas de crédits pour créer des documents.",
+        "purchase": "Achetez des crédits pour continuer à créer des documents.",
+        "purchaseButton": "Acheter des Crédits",
+        "dashboardButton": "Aller au tableau de bord"
+      },
+      "generic": {
+        "title": "Abonnement Requis",
+        "message": "Vous n'avez pas accès à cette fonctionnalité avec votre abonnement actuel."
+      }
+    },
+    "export": {
+      "denied": {
+        "title": "Exportation non disponible",
+        "message": "Vous devez mettre à niveau votre abonnement pour exporter des documents."
+      }
+    }
+  },
+  "errors": {
+    "login": {
+      "title": "Erreur de connexion",
+      "message": "Email ou mot de passe incorrect."
+    },
+    "signup": {
+      "title": "Erreur d'inscription",
+      "message": "Une erreur s'est produite lors de la création de votre compte.",
+      "passwordMismatch": "Les mots de passe ne correspondent pas."
+    },
+    "profile": {
+      "title": "Erreur de mise à jour du profil",
+      "message": "Une erreur s'est produite lors de la mise à jour de votre profil."
+    },
+    "password": {
+      "title": "Erreur de mise à jour du mot de passe",
+      "message": "Une erreur s'est produite lors de la mise à jour de votre mot de passe.",
+      "incorrect": "Le mot de passe actuel est incorrect.",
+      "mismatch": "Le nouveau mot de passe et la confirmation ne correspondent pas."
+    },
+    "document": {
+      "title": "Erreur de chargement du document",
+      "message": "Une erreur s'est produite lors du chargement de votre document."
+    },
+    "save": {
+      "title": "Erreur d'enregistrement",
+      "message": "Une erreur s'est produite lors de l'enregistrement de votre document.",
+      "signInRequired": "Veuillez vous connecter pour enregistrer votre document."
+    },
+    "export": {
+      "title": "Erreur d'exportation",
+      "message": "Une erreur s'est produite lors de la génération de votre PDF."
+    },
+    "avatar": {
+      "title": "Erreur de téléchargement d'avatar",
+      "message": "Une erreur s'est produite lors du téléchargement de votre photo de profil.",
+      "invalidType": "Type de fichier invalide. Veuillez télécharger une image (JPEG, PNG, etc.)",
+      "tooLarge": "Fichier trop volumineux. Veuillez télécharger une image de moins de 2 Mo"
+    },
+    "deleteAccount": {
+      "title": "Erreur de suppression de compte",
+      "message": "Une erreur s'est produite lors de la suppression de votre compte."
+    },
+    "generic": {
+      "title": "Erreur",
+      "message": "Une erreur s'est produite. Veuillez réessayer plus tard."
+    }
+  },
+  "success": {
+    "profile": {
+      "title": "Profil mis à jour",
+      "message": "Votre profil a été mis à jour avec succès."
+    },
+    "password": {
+      "title": "Mot de passe mis à jour",
+      "message": "Votre mot de passe a été mis à jour avec succès."
+    },
+    "document": {
+      "title": "Document chargé",
+      "message": "Votre document a été chargé pour modification."
+    },
+    "save": {
+      "invoice": {
+        "title": "Facture enregistrée",
+        "message": "Votre facture a été enregistrée dans votre compte."
+      },
+      "quote": {
+        "title": "Devis enregistré",
+        "message": "Votre devis a été enregistré dans votre compte."
+      },
+      "cv": {
+        "title": "CV enregistré",
+        "message": "Votre CV a été enregistré dans votre compte."
+      },
+      "coverLetter": {
+        "title": "Lettre de motivation enregistrée",
+        "message": "Votre lettre de motivation a été enregistrée dans votre compte."
+      }
+    },
+    "export": {
+      "title": "Exportation terminée",
+      "message": "Votre document a été généré en PDF."
+    },
+    "avatar": {
+      "title": "Avatar mis à jour",
+      "message": "Votre photo de profil a été mise à jour avec succès."
+    },
+    "deleteAccount": {
+      "title": "Compte supprimé",
+      "message": "Votre compte et toutes les données associées ont été définitivement supprimés."
+    }
+  },
+  "language": {
+    "fr": "Français",
+    "en": "Anglais",
+    "switchLanguage": "Changer de langue"
+  }
+}
