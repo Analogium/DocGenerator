@@ -78,5 +78,29 @@
   }
   body {
     @apply bg-background text-foreground;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
   }
+}
+
+/* Custom styles for better spacing */
+.container-padding {
+  @apply px-4 sm:px-6 lg:px-8;
+}
+
+.card-container {
+  @apply w-full max-w-md mx-auto p-6;
+}
+
+.form-container {
+  @apply space-y-6;
+}
+
+.input-field {
+  @apply w-full p-3 border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent;
+}
+
+.btn-primary {
+  @apply w-full py-3 px-4 bg-primary text-white font-medium rounded-lg hover:bg-primary/90 transition-colors;
 }
